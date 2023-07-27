@@ -1,5 +1,2 @@
 # hello-world
-just a test
-nothing to see here
-just following the tutorial.
-creating a pull request
+streamlit 30-day challenge day 2
